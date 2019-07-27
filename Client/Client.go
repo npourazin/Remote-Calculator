@@ -77,6 +77,5 @@ func readData() []string {
 
 /**
 Issues:
-1- if file is closed server is dooooomed
-2- wrong input not handled
+1- wrong input not handled
 */
