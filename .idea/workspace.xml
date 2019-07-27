@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73003d5a-aa30-4ed5-afa8-9dfcc043e829" name="Default Changelist" comment="bug fixed!&#10;needed break statements added">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="73003d5a-aa30-4ed5-afa8-9dfcc043e829" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Client/Client.go" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/Server.go" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Server.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../networkTrial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -48,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Remote-Calculator/Client">
+  <component name="RunManager" selected="Go Build.go build Remote-Calculator/Server">
     <configuration name="go build Remote-Calculator/Client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Remote-Calculator" />
       <working_directory value="$PROJECT_DIR$/" />
